@@ -12,7 +12,7 @@ const Header = ({ onHomeClick }: HeaderProps) => {
           {/* Logo và Brand */}
           <div className="flex items-center gap-2">
             <Film className="text-blue-500" size={32} />
-            <h1 className="text-white text-2xl font-bold">Anonime</h1>
+            <h1 className="text-white text-2xl font-bold">Wibu Home</h1>
           </div>
 
           {/* Navigation */}
